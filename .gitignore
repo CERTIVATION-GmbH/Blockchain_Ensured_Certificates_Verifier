@@ -1,0 +1,17 @@
+.vs/
+.vscode/*
+src/Rosen.BEC.API/obj/*
+src/Rosen.BEC.API/bin/*
+tests/Rosen.BEC.Test/obj/*
+tests/Rosen.BEC.Test/bin/*
+src/Rosen.BEC.API/Rosen.BEC.API.csproj.user
+tests/Rosen.BEC.UnitTest/bin/*
+tests/Rosen.BEC.UnitTest/obj/*
+tests/Rosen.BEC.IntegrationTest/bin/*
+tests/Rosen.BEC.IntegrationTest/obj/*
+tests/*/obj
+tests/*/bin
+src/Rosen.BEC.API/libwkhtmltox.dll
+BEC.sln.DotSettings.user
+tests/Rosen.BEC.EthereumTest/testchain/devChain/
+tests/Rosen.BEC.Test/testchain/devChain/
