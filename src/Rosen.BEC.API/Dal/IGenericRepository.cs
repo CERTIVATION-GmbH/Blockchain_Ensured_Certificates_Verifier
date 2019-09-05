@@ -1,5 +1,5 @@
-﻿// <copyright file="IGenericRepository.cs" company="Rosen Group">
-// Copyright (c) Rosen Group. All rights reserved.
+﻿// <copyright file="IGenericRepository.cs" company="ROSEN Group">
+// Copyright (c) ROSEN Group. All rights reserved.
 // </copyright>
 
 namespace Rosen.BEC.API.Dal.Repositories

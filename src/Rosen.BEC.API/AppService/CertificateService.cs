@@ -1,4 +1,8 @@
-﻿using System;
+﻿// <copyright file="CertificateService.cs" company="ROSEN Group">
+// Copyright (c) ROSEN Group. All rights reserved.
+// </copyright>
+
+using System;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 using Rosen.BEC.API.AppService;

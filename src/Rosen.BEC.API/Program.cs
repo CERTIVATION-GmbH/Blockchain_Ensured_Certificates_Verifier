@@ -1,4 +1,8 @@
-﻿using System;
+﻿// <copyright file="Program.cs" company="ROSEN Group">
+// Copyright (c) ROSEN Group. All rights reserved.
+// </copyright>
+
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -8,7 +12,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace BEC_V2_Hash_Validation
+namespace Rosen.BEC.API
 {
     public class Program
     {

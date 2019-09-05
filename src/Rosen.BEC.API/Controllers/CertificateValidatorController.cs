@@ -1,5 +1,5 @@
-﻿// <copyright file="CertificateValidatorController.cs" company="Rosen Group">
-// Copyright (c) Rosen Group. All rights reserved.
+﻿// <copyright file="CertificateValidatorController.cs" company="ROSEN Group">
+// Copyright (c) ROSEN Group. All rights reserved.
 // </copyright>
 
 using Rosen.BEC.API.AppService;

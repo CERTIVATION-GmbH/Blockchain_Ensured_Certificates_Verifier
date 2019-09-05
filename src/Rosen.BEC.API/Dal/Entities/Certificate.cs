@@ -1,5 +1,5 @@
-﻿// <copyright file="Certificate.cs" company="Rosen Group">
-// Copyright (c) Rosen Group. All rights reserved.
+﻿// <copyright file="Certificate.cs" company="ROSEN Group">
+// Copyright (c) ROSEN Group. All rights reserved.
 // </copyright>
 
 namespace Rosen.BEC.API.Dal.Entities

@@ -1,4 +1,8 @@
-﻿using System;
+﻿// <copyright file="Startup.cs" company="ROSEN Group">
+// Copyright (c) ROSEN Group. All rights reserved.
+// </copyright>
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -11,7 +15,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace BEC_V2_Hash_Validation
+namespace Rosen.BEC.API
 {
     public class Startup
     {
